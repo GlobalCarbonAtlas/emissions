@@ -1,5 +1,6 @@
-Here are available all issues describing problems or enhancements from Emissions application (developped by WDD).
+Here are described all issues or enhancements encountered with the Emissions application developped by WDD.
 
-www.globalcarbonatlas.org
+www.globalcarbonatlas.org then click on Emissions
+
 
 
